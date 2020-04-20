@@ -15,7 +15,7 @@ from olympia.amo.storage_utils import copy_stored_file
 from olympia.amo.tests import addon_factory, create_switch
 from olympia.addons.cron import hide_disabled_files
 from olympia.files.utils import id_to_path
-from olympia.git.models import GitExtractionQueue
+from olympia.git.models import GitExtractionEntry
 from olympia.versions.models import VersionPreview
 from olympia.versions.tasks import (
     generate_static_theme_preview, extract_version_to_git,
@@ -497,9 +497,9 @@ def test_extract_version_to_git_with_cron_enabled():
     addon = addon_factory(file_kw={'filename': 'webextension_no_id.xpi'})
     repo = AddonGitRepository(addon.pk)
     create_switch('enable-git-extraction-cron')
-    assert GitExtractionQueue.objects.count() == 0
+    assert GitExtractionEntry.objects.count() == 0
 
     extract_version_to_git(addon.current_version.pk)
 
-    assert GitExtractionQueue.objects.count() == 1
+    assert GitExtractionEntry.objects.count() == 1
     assert not repo.is_extracted

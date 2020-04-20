@@ -1,13 +1,13 @@
 from olympia.amo.tests import TestCase, addon_factory
 
-from olympia.git.models import GitExtraction
+from olympia.git.models import AddonGitExtraction
 from olympia.git.tasks import remove_gitextraction_lock
 
 
-class TestRemoveGitExtractionLock(TestCase):
+class TestRemoveAddonGitExtractionLock(TestCase):
     def test_remove_lock(self):
         addon = addon_factory()
-        GitExtraction.objects.create(addon=addon, in_progress=True)
+        AddonGitExtraction.objects.create(addon=addon, in_progress=True)
 
         assert addon.git_extraction_is_in_progress
 
@@ -21,4 +21,4 @@ class TestRemoveGitExtractionLock(TestCase):
 
         remove_gitextraction_lock(addon_pk=addon.pk)
 
-        assert GitExtraction.objects.count() == 0
+        assert AddonGitExtraction.objects.count() == 0

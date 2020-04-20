@@ -16,7 +16,7 @@ from olympia.amo.utils import extract_colors_from_image, pngcrush_image
 from olympia.devhub.tasks import resize_image
 from olympia.files.models import File
 from olympia.files.utils import get_background_images
-from olympia.git.models import GitExtractionQueue
+from olympia.git.models import GitExtractionEntry
 from olympia.versions.models import Version, VersionPreview
 from olympia.lib.git import AddonGitRepository
 from olympia.users.models import UserProfile
@@ -128,7 +128,7 @@ def extract_version_to_git(
     ):
         log.info('Adding add-on {} to the git extraction '
                  'queue.'.format(version.addon.id))
-        GitExtractionQueue.objects.create(addon=version.addon)
+        GitExtractionEntry.objects.create(addon=version.addon)
         return
 
     if author_id is not None:
