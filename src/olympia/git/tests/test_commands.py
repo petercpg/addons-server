@@ -9,7 +9,7 @@ from olympia.amo.tests import (
     create_switch,
     version_factory,
 )
-from olympia.lib.git import AddonGitRepository
+from olympia.lib.git import AddonGitRepository, BrokenRefError
 from olympia.git.models import GitExtractionEntry
 from olympia.git.tasks import (
     extract_versions_to_git,
@@ -158,7 +158,7 @@ class TestGitExtraction(TestCase):
     # (because we run Celery in eager mode in the test env). That being said,
     # Celery still raises errors so... we have to catch the exception too.
     @override_settings(CELERY_TASK_EAGER_PROPAGATES=False)
-    def test_extract_addon_with_error_during_extraction(self):
+    def test_extract_addon_with_broken_ref_error_during_extraction(self):
         addon = addon_factory(file_kw={'filename': 'webextension_no_id.xpi'})
         version = addon.current_version
         repo = AddonGitRepository(addon)
@@ -172,11 +172,14 @@ class TestGitExtraction(TestCase):
 
         try:
             self.command.extract_addon(entry)
-        except Exception:
-            pass
+        except Exception as exc:
+            assert isinstance(exc, BrokenRefError)
+
         addon.refresh_from_db()
         version.refresh_from_db()
 
-        assert repo.is_extracted
+        assert not repo.is_extracted
         assert not GitExtractionEntry.objects.filter(pk=entry.pk).exists()
         assert not version.git_hash
+        new_entry = GitExtractionEntry.objects.get(addon_id=addon.pk)
+        assert new_entry and new_entry.in_progress is None
