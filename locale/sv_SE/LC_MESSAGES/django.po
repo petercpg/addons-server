@@ -6686,7 +6686,7 @@ msgstr ""
 "Innan du börjar, läs och acceptera vårt distributionsavtal för Firefox-tillägg samt våra granskningsprinciper och regler. Distributionsavtalet för Firefox-tillägg länkar också till vår "
 "sekretesspolicy som förklarar hur vi hanterar din information."
 
-msgid "Please read and accept our Firefox on Distribution Agreement as well as our Review Policies and Rules by visiting {url}"
+msgid "Please read and accept our Firefox Add-on Distribution Agreement as well as our Review Policies and Rules by visiting {url}"
 msgstr "Läs och acceptera vårt distributionsavtal samt våra granskningsregler och regler genom att besöka {url}"
 
 msgid "an add-on developer replies to my review"

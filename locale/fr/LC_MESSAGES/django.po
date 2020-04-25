@@ -6714,7 +6714,7 @@ msgstr ""
 "Avant de commencer, veuillez lire et accepter l’accord de distribution pour les modules complémentaires Firefox ainsi que notre politique et nos règles de révision. L’accord de distribution pour les"
 " modules complémentaires Firefox possède un lien vers notre politique de confidentialité qui explique comment nous gérons les informations vous concernant."
 
-msgid "Please read and accept our Firefox on Distribution Agreement as well as our Review Policies and Rules by visiting {url}"
+msgid "Please read and accept our Firefox Add-on Distribution Agreement as well as our Review Policies and Rules by visiting {url}"
 msgstr ""
 
 msgid "an add-on developer replies to my review"

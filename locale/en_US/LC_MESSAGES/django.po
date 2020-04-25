@@ -7357,7 +7357,7 @@ msgid ""
 msgstr "Before starting, please read and accept our Firefox Add-on Distribution Agreement. It also links to our Privacy Notice which explains how we handle your information."
 
 #, fuzzy
-msgid "Please read and accept our Firefox on Distribution Agreement as well as our Review Policies and Rules by visiting {url}"
+msgid "Please read and accept our Firefox Add-on Distribution Agreement as well as our Review Policies and Rules by visiting {url}"
 msgstr "Before starting, please read and accept our Firefox Add-on Distribution Agreement. It also links to our Privacy Notice which explains how we handle your information."
 
 msgid "an add-on developer replies to my review"

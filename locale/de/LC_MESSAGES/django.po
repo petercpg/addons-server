@@ -6724,7 +6724,7 @@ msgstr ""
 "Bevor Sie beginnen, lesen und akzeptieren Sie bitte unsere Einverständniserklärung zur Verteilung von Firefox-Add-ons sowie unsere Regeln und Richtlinien zu Überprüfungen. Die "
 "Einverständniserklärung verweist auch auf unseren Datenschutzhinweis, der erklärt, wie wir mit Ihren Daten umgehen."
 
-msgid "Please read and accept our Firefox on Distribution Agreement as well as our Review Policies and Rules by visiting {url}"
+msgid "Please read and accept our Firefox Add-on Distribution Agreement as well as our Review Policies and Rules by visiting {url}"
 msgstr "Bitte lesen und akzeptieren Sie unsere Firefox-Vertriebsvereinbarung sowie unsere Überprüfungsrichtlinien und -regeln unter {url}"
 
 msgid "an add-on developer replies to my review"

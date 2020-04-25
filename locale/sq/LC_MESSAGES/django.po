@@ -6748,7 +6748,7 @@ msgstr ""
 "it përmban edhe lidhje për te Shënimet tona mbi Privatësinë, ku shpjegohet se si i trajtojmë të dhënat tuaja."
 
 #, fuzzy
-msgid "Please read and accept our Firefox on Distribution Agreement as well as our Review Policies and Rules by visiting {url}"
+msgid "Please read and accept our Firefox Add-on Distribution Agreement as well as our Review Policies and Rules by visiting {url}"
 msgstr ""
 "Para se t’ia filloni, ju lutemi lexoni dhe pranoni Marrëveshjen mbi Shpërndarjen e Shtesave të Firefox-it, si dhe Rregullat tona mbi Shqyrtimet. Marrëveshja mbi Shpërndarjen e Shtesave të Firefox-"
 "it përmban edhe lidhje për te Shënimet tona mbi Privatësinë, ku shpjegohet se si i trajtojmë të dhënat tuaja."

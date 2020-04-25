@@ -6813,7 +6813,7 @@ msgstr ""
 "razlaga, kako ravnamo z vašimi podatki."
 
 #, fuzzy
-msgid "Please read and accept our Firefox on Distribution Agreement as well as our Review Policies and Rules by visiting {url}"
+msgid "Please read and accept our Firefox Add-on Distribution Agreement as well as our Review Policies and Rules by visiting {url}"
 msgstr ""
 "Pred začetkom si preberite in sprejmite Sporazum o razširjanju Firefoxovih dodatkov, kot tudi našo politiko in pravila pregledov. Sporazum vsebuje tudi povezavo na naše Obvestilo o zasebnosti, ki "
 "razlaga, kako ravnamo z vašimi podatki."

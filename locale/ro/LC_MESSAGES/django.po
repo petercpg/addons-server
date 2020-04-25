@@ -6747,7 +6747,7 @@ msgstr ""
 "Înainte de a începe, te rugăm să citești și să accepți Acordul de distribuție pentru suplimente Firefox, precum și Politicile și regulile noastre pentru recenzii. Acordul de distribuție pentru "
 "suplimente Firefox trimite și la Declarația noastră de confidențialitate, care explică modul în care îți gestionăm informațiile."
 
-msgid "Please read and accept our Firefox on Distribution Agreement as well as our Review Policies and Rules by visiting {url}"
+msgid "Please read and accept our Firefox Add-on Distribution Agreement as well as our Review Policies and Rules by visiting {url}"
 msgstr "Te rugăm să citești și să accepți Acordul de distribuție Firefox, precum și Politicile și regulile noastre pentru recenzii intrând pe {url}"
 
 msgid "an add-on developer replies to my review"

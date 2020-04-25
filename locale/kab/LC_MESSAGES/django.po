@@ -6645,7 +6645,7 @@ msgstr ""
 "Send ad tebduḍ, ɣer syen qbel ma ulac aɣilif amtawa n uzuzer n yizegrar n Firefox akked tsertit tabaḍnit d yilugan n ucegger. Amtawa n uzuzer i yizegrar Firefox yegber aseɣwen ar tsertit-nneɣ "
 "tabaḍnit i d-yessegzayen amek i nessefrak talɣut i ak-yeɛnan."
 
-msgid "Please read and accept our Firefox on Distribution Agreement as well as our Review Policies and Rules by visiting {url}"
+msgid "Please read and accept our Firefox Add-on Distribution Agreement as well as our Review Policies and Rules by visiting {url}"
 msgstr "Ma ulac aɣilif ɣer syen qbel amtawi n uzuzer n Firefox  akked tsertiyin n tbaḍnit d yilugan n ucegger s tirza ɣer {url}"
 
 msgid "an add-on developer replies to my review"

@@ -6768,7 +6768,7 @@ msgstr ""
 "kami yang menjelaskan bagaimana kami menangani informasi Anda."
 
 #, fuzzy
-msgid "Please read and accept our Firefox on Distribution Agreement as well as our Review Policies and Rules by visiting {url}"
+msgid "Please read and accept our Firefox Add-on Distribution Agreement as well as our Review Policies and Rules by visiting {url}"
 msgstr ""
 "Sebelum memulai, baca dan terima Perjanjian Distribusi Pengaya Firefox serta Kebijakan dan juga Aturan Peninjauan kami. Perjanjian Distribusi Pengaya Firefox juga terhubung ke Pemberitahuan Privasi "
 "kami yang menjelaskan bagaimana kami menangani informasi Anda."

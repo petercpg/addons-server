@@ -6738,7 +6738,7 @@ msgstr ""
 "ਜਾਣਕਾਰੀ ਨੂੰ ਕਿਵੇਂ ਚਲਾਉਂਦੇ ਹਾਂ।"
 
 #, fuzzy
-msgid "Please read and accept our Firefox on Distribution Agreement as well as our Review Policies and Rules by visiting {url}"
+msgid "Please read and accept our Firefox Add-on Distribution Agreement as well as our Review Policies and Rules by visiting {url}"
 msgstr ""
 "ਸ਼ੁਰੂ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ, ਕਿਰਪਾ ਕਰਕੇ ਸਾਡੇ ਫਾਇਰਫਾਕਸ ਐਡਆਨ ਵੰਡ ਪ੍ਰਣਾਲੀ ਦੇ ਨਾਲ ਸਾਡੀ ਸਮੀਖਿਆ ਦੀਆਂ ਨੀਤੀਆਂ ਅਤੇ ਨਿਯਮਾਂ ਨੂੰ ਪੜ੍ਹੋ ਅਤੇ ਸਵੀਕਾਰ ਕਰੋ। ਫਾਇਰਫਾਕਸ ਐਡਆਨ ਡਿਸਟਰੀਬਿਊਸ਼ਨ ਐਗਰੀਮੈਂਟ ਵੀ ਸਾਡੇ ਗੋਪਨੀਯਤਾ ਨੋਟਿਸ ਨਾਲ ਜੁੜਦਾ ਹੈ ਜੋ ਦੱਸਦੀ ਹੈ ਕਿ ਅਸੀਂ ਤੁਹਾਡੀ "
 "ਜਾਣਕਾਰੀ ਨੂੰ ਕਿਵੇਂ ਚਲਾਉਂਦੇ ਹਾਂ।"

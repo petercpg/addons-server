@@ -6766,7 +6766,7 @@ msgstr ""
 "priwatnosći, kótaraž wujasnjujo, kak z wašymi informacijami wobchadamy."
 
 #, fuzzy
-msgid "Please read and accept our Firefox on Distribution Agreement as well as our Review Policies and Rules by visiting {url}"
+msgid "Please read and accept our Firefox Add-on Distribution Agreement as well as our Review Policies and Rules by visiting {url}"
 msgstr ""
 "Nježli až zachopijośo, cytajśo a akceptěrujśo pšosym našo dojadnanje wó rozdźělowanju a naše pśeglědowańske zasady a pšawidła. Dojadnanje wó rozdźělowanju Firefox teke wótkazujo k našomu pokazoju "
 "priwatnosći, kótaraž wujasnjujo, kak z wašymi informacijami wobchadamy."

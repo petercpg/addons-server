@@ -6712,7 +6712,7 @@ msgstr ""
 "Firefox etiam se refere a nostre Aviso de confidentialitate que explica como nos gere tu informationes."
 
 #, fuzzy
-msgid "Please read and accept our Firefox on Distribution Agreement as well as our Review Policies and Rules by visiting {url}"
+msgid "Please read and accept our Firefox Add-on Distribution Agreement as well as our Review Policies and Rules by visiting {url}"
 msgstr ""
 "Ante de initiar, per favor lege e accepta nostre Accordo de distribution del additivos de Firefox assi como nostre Politicas e regulas de revision. Le Accordo de distribution del additivos de "
 "Firefox etiam se refere a nostre Aviso de confidentialitate que explica como nos gere tu informationes."

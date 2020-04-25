@@ -6757,7 +6757,7 @@ msgstr ""
 "Privacyverklaring, die uitlegt hoe we met uw gegevens omgaan."
 
 #, fuzzy
-msgid "Please read and accept our Firefox on Distribution Agreement as well as our Review Policies and Rules by visiting {url}"
+msgid "Please read and accept our Firefox Add-on Distribution Agreement as well as our Review Policies and Rules by visiting {url}"
 msgstr ""
 "Lees en accepteer voordat u begint onze Firefox-add-on-distributieovereenkomst, evenals onze Beoordelingsregels en -beleid. De Firefox-add-on-distributieovereenkomst verwijst tevens naar onze "
 "Privacyverklaring, die uitlegt hoe we met uw gegevens omgaan."

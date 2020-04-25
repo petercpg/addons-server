@@ -6951,7 +6951,7 @@ msgid ""
 msgstr "ਸ਼ੁਰੂ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ, ਕਿਰਪਾ ਕਰਕੇ ਸਾਡਾ ਫਾਇਰਫਾਕਸ ਐਡ-ਆਨ ਵੰਡ ਸਮਝੌਤਾ ਪੜ੍ਹੋ ਅਤੇ ਮਨਜ਼ੂਰ ਕਰੋ। ਇਹ ਸਾਡੇ ਪਰਦੇਦਾਰੀ ਨੋਟਿਸ ਨਾਲ ਵੀ ਸਬੰਧ ਰੱਖਦਾ ਜੋ ਦੱਸਦਾ ਹੈ ਕੀ ਕਿਵੇਂ ਅਸੀਂ ਤੁਹਾਡੀ ਜਾਣਕਾਰੀ ਨੂੰ ਵਰਤਦੇ ਹਾਂ।"
 
 #, fuzzy
-msgid "Please read and accept our Firefox on Distribution Agreement as well as our Review Policies and Rules by visiting {url}"
+msgid "Please read and accept our Firefox Add-on Distribution Agreement as well as our Review Policies and Rules by visiting {url}"
 msgstr "ਸ਼ੁਰੂ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ, ਕਿਰਪਾ ਕਰਕੇ ਸਾਡਾ ਫਾਇਰਫਾਕਸ ਐਡ-ਆਨ ਵੰਡ ਸਮਝੌਤਾ ਪੜ੍ਹੋ ਅਤੇ ਮਨਜ਼ੂਰ ਕਰੋ। ਇਹ ਸਾਡੇ ਪਰਦੇਦਾਰੀ ਨੋਟਿਸ ਨਾਲ ਵੀ ਸਬੰਧ ਰੱਖਦਾ ਜੋ ਦੱਸਦਾ ਹੈ ਕੀ ਕਿਵੇਂ ਅਸੀਂ ਤੁਹਾਡੀ ਜਾਣਕਾਰੀ ਨੂੰ ਵਰਤਦੇ ਹਾਂ।"
 
 msgid "an add-on developer replies to my review"

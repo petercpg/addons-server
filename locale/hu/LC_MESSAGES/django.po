@@ -6772,7 +6772,7 @@ msgstr ""
 "hivatkozik az adatvédelmi nyilatkozatra is, amely elmagyarázza, hogyan kezeljük az adatait."
 
 #, fuzzy
-msgid "Please read and accept our Firefox on Distribution Agreement as well as our Review Policies and Rules by visiting {url}"
+msgid "Please read and accept our Firefox Add-on Distribution Agreement as well as our Review Policies and Rules by visiting {url}"
 msgstr ""
 "Kezdés előtt olvassa el és fogadja el a Firefox kiegészítő-terjesztési megállapodásunkat, valamint az értékelési irányelveinket és szabályzatunkat. A Firefox kiegészítő-terjesztési megállapodás "
 "hivatkozik az adatvédelmi nyilatkozatra is, amely elmagyarázza, hogyan kezeljük az adatait."

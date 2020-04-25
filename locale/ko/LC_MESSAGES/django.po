@@ -6796,7 +6796,7 @@ msgstr ""
 "니다."
 
 #, fuzzy
-msgid "Please read and accept our Firefox on Distribution Agreement as well as our Review Policies and Rules by visiting {url}"
+msgid "Please read and accept our Firefox Add-on Distribution Agreement as well as our Review Policies and Rules by visiting {url}"
 msgstr ""
 "시작하기 전에 Firefox 부가 기능 배포 계약과 검토 정책과 규칙에 대해서 읽고 동의해주세요. Firefox 부가 기능 배포 계약은 사용자의 정보를 다루는 기준이 명시된 우리의 개인정보 보호 고지와 연결되어 있습"
 "니다."

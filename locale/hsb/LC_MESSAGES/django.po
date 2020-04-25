@@ -6765,7 +6765,7 @@ msgstr ""
 "wotkazuje, kotryž wujasnja, kak z wašimi informacijemi wobchadźamy."
 
 #, fuzzy
-msgid "Please read and accept our Firefox on Distribution Agreement as well as our Review Policies and Rules by visiting {url}"
+msgid "Please read and accept our Firefox Add-on Distribution Agreement as well as our Review Policies and Rules by visiting {url}"
 msgstr ""
 "Prjedy hač započnjeće, čitajće a akceptujće prošu naše dojednanje wo rozdźělowanju a naše přepruwowanske zasady a prawidła. Dojednanje wo rozdźělowanju Firefox tež na naš pokazku priwatnosće "
 "wotkazuje, kotryž wujasnja, kak z wašimi informacijemi wobchadźamy."

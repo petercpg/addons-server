@@ -9510,7 +9510,7 @@ msgstr ""
 
 #: src/olympia/users/models.py:890
 msgid ""
-"Please read and accept our Firefox on Distribution Agreement as well as our "
+"Please read and accept our Firefox Add-on Distribution Agreement as well as our "
 "Review Policies and Rules by visiting {url}"
 msgstr ""
 

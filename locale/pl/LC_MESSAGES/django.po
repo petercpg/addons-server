@@ -6903,7 +6903,7 @@ msgstr ""
 "łącze do Powiadomienia o prywatności, które wyjaśnia, jak postępujemy z Twoimi informacjami."
 
 #, fuzzy
-msgid "Please read and accept our Firefox on Distribution Agreement as well as our Review Policies and Rules by visiting {url}"
+msgid "Please read and accept our Firefox Add-on Distribution Agreement as well as our Review Policies and Rules by visiting {url}"
 msgstr ""
 "Przed rozpoczęciem przeczytaj i zaakceptuj Umowę dotyczącą dystrybucji dodatków Firefoksa, a także nasze Zasady i reguły sprawdzania. Umowa dotycząca dystrybucji dodatków Firefoksa zawiera również "
 "łącze do Powiadomienia o prywatności, które wyjaśnia, jak postępujemy z Twoimi informacjami."
